@@ -138,7 +138,7 @@ A Python-based project focused on applying programming concepts to solve a pract
 </table>
 
 > 💡 **Replace these four placeholders with your actual repositories.** Your README will look much stronger when visitors can immediately see real projects rather than generic project descriptions.
--->
+
 ---
 
 ## 📈 GitHub Analytics
@@ -150,7 +150,7 @@ A Python-based project focused on applying programming concepts to solve a pract
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleena-azam510&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 
 </div>
-
+-->
 ---
 
 ## 🔥 Contribution Streak
