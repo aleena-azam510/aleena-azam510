@@ -35,7 +35,6 @@
 - 🎓 Computer Science Graduate.
 - 💻 Software Engineer passionate about developing modern applications.
 - 🤖 AI Engineer interested in Artificial Intelligence and Machine Learning.
-- 💼 Worked as Application Trainer & Support Staff at LUMHS.
 - 🚀 Currently working on projects focused on Software Development and AI.
 - 🌱 Continuously learning, exploring new technologies, and improving my skills.
 - 💡 Passionate about transforming innovative ideas into intelligent digital solutions.
