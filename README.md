@@ -1,214 +1,121 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ================= ANIMATED HEADER ================= -->
 
-<!--                    AI/ML DEVELOPER PROFILE                     -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-# 👋 Hi, I'm **Aleena Azam**
-
-### 🤖 AI/ML Developer • 🐍 Python Developer • 📊 Data Science Enthusiast
-
-<p>
-  <em>Building intelligent solutions, learning continuously, and turning ideas into code.</em>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080A1A,50:064E4B,100:00C9A7&height=220&section=header&text=ALEENA%20AZAM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20ENGINEER&descAlignY=55&descSize=18" />
 </p>
 
-<br>
+<!-- ================= INTRODUCTION ================= -->
 
-<a href="https://www.linkedin.com/in/aleena-azam-321780322/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/aleena-azam510">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<h3 align="center">💻 Software Engineer | 🤖 AI Engineer</h3>
 
-</div>
-
----
-
-## 🧠 About Me
-
-I'm a passionate developer with a growing focus on **Artificial Intelligence, Machine Learning, Deep Learning, and Data Science**.
-
-I enjoy exploring how intelligent systems can solve real-world problems and turning concepts into practical projects. I'm continuously learning, experimenting with new technologies, and looking for opportunities to collaborate and contribute to the open-source community.
-
-* 🔭 Currently exploring **Machine Learning & Deep Learning**
-* 🐍 Working primarily with **Python**
-* 📊 Interested in **Data Science & AI**
-* 🚀 Building projects to strengthen my practical skills
-* 🤝 Open to **collaboration and open-source contributions**
-* 🌱 Always learning something new
-
----
-
-## 🛠️ Tech Stack
-
-### 🐍 Languages & Core
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github" alt="Languages and tools"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Engineer+%F0%9F%92%BB;AI+Engineer+%F0%9F%A4%96;Building+Intelligent+Digital+Solutions;Code.+Create.+Innovate." alt="Typing SVG" />
 </p>
 
-### 🤖 AI / Machine Learning
+<!-- ================= SOCIAL LINKS - TOP ================= -->
 
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-102A43?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="Deep Learning"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<p align="center">
+  <a href="https://my-react-portfolio-beryl-omega.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/aleena-azam510">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aleena-azam-321780322/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-### 📊 Data Science
+---
 
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<!-- ================= ABOUT ME ================= -->
+
+## 👩‍💻 About Me
+
+- 🎓 Computer Science Graduate.
+- 💻 Software Engineer passionate about developing modern applications.
+- 🤖 AI Engineer interested in Artificial Intelligence and Machine Learning.
+- 💼 Worked as Application Trainer & Support Staff at LUMHS.
+- 🚀 Currently working on projects focused on Software Development and AI.
+- 🌱 Continuously learning, exploring new technologies, and improving my skills.
+- 💡 Passionate about transforming innovative ideas into intelligent digital solutions.
+
+---
+
+<!-- ================= TECHNOLOGIES ================= -->
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,cpp,git,github,vscode,mysql&theme=dark" />
 </p>
 
-> **Note:** Keep only the technologies you actually use. Don't list TensorFlow/PyTorch/etc. if you haven't worked with them yet.
-
 ---
-<!--
-## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<!-- ================= PROJECTS ================= -->
 
-### 🤖 AI / ML Project
+## 🚀 Projects & Development
 
-**Machine Learning Project**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00C9A7&center=true&vCenter=true&width=550&lines=Currently+Building+Something+Exciting!;Exploring+AI+%26+Software+Development;Turning+Ideas+Into+Reality;More+Projects+Coming+Soon...+%F0%9F%9A%80" alt="Project animation" />
+</p>
 
-A practical machine-learning project demonstrating data preprocessing, model development, training, and evaluation.
-
-**Tech:** `Python` `Scikit-Learn` `Pandas`
-
-🔗 **[View Repository](https://github.com/aleena-azam510)**
-
-</td>
-
-<td width="50%">
-
-### 📊 Data Science Project
-
-**Data Analysis & Visualization**
-
-Exploring datasets, extracting meaningful insights, and presenting findings through data visualization.
-
-**Tech:** `Python` `Pandas` `NumPy` `Matplotlib`
-
-🔗 **[View Repository](https://github.com/aleena-azam510)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧠 Deep Learning Project
-
-**Deep Learning Experiment**
-
-An experimental project exploring neural networks and deep-learning concepts using Python.
-
-**Tech:** `Python` `Deep Learning`
-
-🔗 **[View Repository](https://github.com/aleena-azam510)**
-
-</td>
-
-<td width="50%">
-
-### 🐍 Python Project
-
-**Python Application**
-
-A Python-based project focused on applying programming concepts to solve a practical problem.
-
-**Tech:** `Python`
-
-🔗 **[View Repository](https://github.com/aleena-azam510)**
-
-</td>
-</tr>
-</table>
-
-> 💡 **Replace these four placeholders with your actual repositories.** Your README will look much stronger when visitors can immediately see real projects rather than generic project descriptions.
+- 💻 Developing software applications and exploring modern technologies.
+- 🤖 Exploring AI-powered applications and intelligent solutions.
+- 🧠 Learning and experimenting with new tools and frameworks.
+- 🚀 Working on practical projects to strengthen my development skills.
 
 ---
 
-## 📈 GitHub Analytics
+<!-- ================= GITHUB STATS ================= -->
 
-<div align="center">
+## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=aleena-azam510&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Aleena's GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleena-azam510&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
-
-</div>
--->
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=aleena-azam510&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aleena-azam510&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=080A1A&title_color=00C9A7&icon_color=00C9A7&text_color=FFFFFF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleena-azam510&layout=compact&theme=tokyonight&hide_border=true&bg_color=080A1A&title_color=00C9A7&text_color=FFFFFF" />
+</p>
 
 ---
 
+<!-- ================= CONTRIBUTION STREAK ================= -->
 
-## 🎯 Current Focus
+## 🔥 GitHub Contribution Streak
 
-```text
-Artificial Intelligence     ███████████████░░░░░
-Machine Learning            ██████████████░░░░░░
-Deep Learning               ████████████░░░░░░░░
-Python                      █████████████████░░░
-Data Science                █████████████░░░░░░░
-Open Source                 ██████████░░░░░░░░░░
-```
-
-> Building skills through projects, experimentation, and continuous learning.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aleena-azam510&theme=tokyonight&hide_border=true&background=080A1A&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" />
+</p>
 
 ---
 
-## 🌱 My Developer Journey
+<!-- ================= CONNECT ================= -->
 
-```text
-Learn → Experiment → Build → Break → Debug → Improve → Share
-```
+## 🌐 Connect With Me
 
-I'm interested in building projects that combine **Python + Data + AI** to create useful and practical solutions.
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/aleena-azam-321780322/">
-<img src="https://img.shields.io/badge/LinkedIn-Aleena%20Azam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/aleena-azam510">
-<img src="https://img.shields.io/badge/GitHub-aleena--azam510-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://my-react-portfolio-beryl-omega.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/aleena-azam510">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aleena-azam-321780322/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<!-- ================= ANIMATED FOOTER ================= -->
 
-### 💭 *"Learn. Build. Experiment. Contribute. Repeat."*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1500&color=00C9A7&center=true&vCenter=true&width=600&lines=Keep+Learning+%E2%9C%A8;Keep+Building+%F0%9F%9A%80;Keep+Innovating+%F0%9F%A4%96" alt="Footer animation" />
+</p>
 
-⭐ **Thanks for visiting my profile!**
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:064E4B,100:080A1A&height=130&section=footer" />
+</p>
 
-</div>
+<p align="center">
+  <i>Building the future, one line of code at a time. 💚</i>
+</p>
